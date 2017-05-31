@@ -1,0 +1,22 @@
+body {
+  width: 50%;
+  border: 20px solid gray;
+  margin: auto;
+  padding: 20px;
+  font-family: "Ubuntu";
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: blue;
+  letter-spacing: 0.2em;
+}
+
+div p:first-of-type {
+  padding-left: 2px;
+  border-left: 5px solid gray;
+}
